@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.pridechi.anyphoto" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>pridephoto2</name>
+    <name>pridechi</name>
     <description>
-       pridephoto2
+       pridechi
     </description>
     <author email="ch7@daum.net" href="http://m.pridechi.com">
-        pridephoto2
+        pridechi
     </author>
     <content src="index.html" />
    <preference name="permissions" value="none" />
